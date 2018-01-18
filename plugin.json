@@ -1,7 +1,7 @@
 {
     "name": "Blurange",
     "description": "A new blue theme for Matomo.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "theme": true,
     "require": {
         "piwik": ">=3.3.0-stable,<4.0.0-b1"
