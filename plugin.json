@@ -1,6 +1,6 @@
 {
     "name": "Blurange",
-    "description": "Matomo Platform showcase: example of how to create a simple Theme.",
+    "description": "A new blue theme for Matomo.",
     "version": "0.1.0",
     "theme": true,
     "require": {
@@ -9,20 +9,10 @@
     "stylesheet": "stylesheets\/theme.less",
     "homepage": "",
     "license": "GPL v3+",
-    "keywords": [],
-    "support": {
-        "email": "",
-        "issues": "",
-        "forum": "",
-        "irc": "",
-        "source": "",
-        "docs": "",
-        "wiki": "",
-        "rss": ""
-    },
+    "keywords": ["blue","colourblind friendly"],
     "authors": [
         {
-            "name": "",
+            "name": "Danika",
             "email": "",
             "homepage": ""
         }

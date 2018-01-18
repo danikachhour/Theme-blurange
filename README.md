@@ -1,5 +1,4 @@
-# Piwik Blurange Theme
+# Matomo Blurange Theme
 
 ## Description
-
-Add your theme description here.
+A new blue theme for Matomo.
